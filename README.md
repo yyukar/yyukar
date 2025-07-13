@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Merhaba, ben Yusuf. Esnek, uyumlu, güçlü iletişim becerilerine sahip takım çalışmasına yatkın ve değişime açık biriyim. Sürekli öğrenmekten ve kendimi geliştirmekten keyif alıyorum. Zamanımı, iş akışımı ve çevresel değişkenleri optimize ederek on yıldır vücut geliştirme ve fitness yapıyorum.Yaratıcılığımı desteklemek ve düşünme kabiliyetimi artırmak için fırsat bulduğum her alanda etkinliklere katılıyorum.
+
 <!--
 **yyukar/yyukar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
