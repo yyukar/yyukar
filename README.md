@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Merhaba, ben Yusuf. Esnek, uyumlu, güçlü iletişim becerilerine sahip takım çalışmasına yatkın ve değişime açık biriyim. Sürekli öğrenmekten ve kendimi geliştirmekten keyif alıyorum. Zamanımı, iş akışımı ve çevresel değişkenleri optimize ederek on yıldır vücut geliştirme ve fitness yapıyorum.Yaratıcılığımı desteklemek ve düşünme kabiliyetimi artırmak için fırsat bulduğum her alanda etkinliklere katılıyorum.
+Math and Computer Scientist with hands-on experience in full-stack development and a strong foundation in cybersecurity. Skilled in Java, Spring Boot, RESTful APIs, SQL, and front-end technologies, with practical exposure to secure coding, incident detection, and network defense. Adaptable and collaborative team player with strong communication and problem-solving skills, eager to learn and innovate. Over a decade of dedication to bodybuilding and fitness, combined with knowledge in sports science and experience in various sports disciplines, fostering discipline, resilience, and sustained focus that enhance professional performance.
+
 
 <!--
 **yyukar/yyukar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
