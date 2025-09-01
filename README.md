@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Math and Computer Scientist with hands-on experience in full-stack development and a strong foundation in cybersecurity. Skilled in Java, Spring Boot, RESTful APIs, SQL, and front-end technologies, with practical exposure to secure coding, incident detection, and network defense. Adaptable and collaborative team player with strong communication and problem-solving skills, eager to learn and innovate. Over a decade of dedication to bodybuilding and fitness, combined with knowledge in sports science and experience in various sports disciplines, fostering discipline, resilience, and sustained focus that enhance professional performance.
+Math and Computer Scientist with a strong background in mathematics and cybersecurity, and a solid foundation in full-stack development. Knowledge of Java, Spring Boot, SQL, and front-end technologies, complemented by cybersecurity training in secure coding and the software development lifecycle (SDLC). With over 10 years of bodybuilding, combined with knowledge in sports science and experience across various sports disciplines, I bring analytical problem-solving, discipline, resilience, and adaptability to professional environments.
 
 
 <!--
