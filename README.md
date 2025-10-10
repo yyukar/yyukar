@@ -12,25 +12,16 @@ Currently enhancing my **backend & fullstack skills** through the **Patika+ Full
 ---
 
 ### 🔭 I’m currently working on:
-- Building fullstack web applications using **Java, Spring Boot, PostgreSQL**, and **React**
-- Developing modular backend architecture for my **VehicleRental** and **PatikaStore** projects  
-- Improving **secure coding** and **application security** skills with **TryHackMe** and **CyberOps** labs
+- Building and structuring backend applications with **Spring Boot**  
+- Implementing **RESTful APIs** and database operations using **PostgreSQL**  
+- Applying **Object-Oriented Programming (OOP)** and **clean code principles**  
+- Strengthening my understanding of **dependency injection**, **layered architecture**, and **exception handling**
 
-⚡ *“Analytical thinking from mathematics, structured logic from computer science, and discipline from sports — combined into a developer mindset.”*  
-
----
-
-### 🔭 I’m currently working on:
-- **Developing backend layers** with Java, Spring Boot, JPA/Hibernate, and PostgreSQL  
-- **Designing RESTful APIs** and integrating them with React-based frontends  
-- **Refactoring and improving** my existing projects like *VehicleRental* and *PatikaStore*  
-- Practicing **unit testing (JUnit)**, **exception handling**, and **clean architecture** principles
-
-  ### 🌱 I’m currently learning:
+### 🌱 I’m currently learning:
+- Advanced **Spring Boot** configurations and project structuring  
 - **Spring Security** and authentication best practices  
-- **Advanced JPA/Hibernate mappings** and query optimization  
-- **Microservice fundamentals** and deployment with Docker  
-- **Agile development workflows** and team collaboration tools  
+- **JPA/Hibernate** performance optimization and entity relationships   
+- **Agile methodologies** and version control with Git/GitHub
 
 ---
 
@@ -38,12 +29,20 @@ Currently enhancing my **backend & fullstack skills** through the **Patika+ Full
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/CyberSecurity-0A66C2?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
+
 
 ---
 
