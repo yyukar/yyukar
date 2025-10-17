@@ -57,6 +57,11 @@ Currently enhancing my **backend & fullstack skills** through the **Patika+ Full
 ### 📫 How to reach me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/yyukar)
 
+### 📫 How to reach me:
+- 💼 [LinkedIn](https://www.linkedin.com/in/yyukar)
+- 📧 yusufyukar@gmail.com
+
+
 
 
 
