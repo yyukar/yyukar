@@ -61,7 +61,7 @@ Currently sharpening my skills through the **Patika+ Full-Stack Web Development 
 ---
 
 ### 📫 How to reach me
-- 💼 [Digital Hub](https://www.yusufyukar.com)
+- 💼 [Digital Hub](https://yusufyukar.com)
 
 
 
