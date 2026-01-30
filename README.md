@@ -25,10 +25,17 @@ Currently sharpening my skills through the **Patika+ Full-Stack Web Development 
 ---
 
 ### 🧩 Featured Projects
-- **Library Management System** — Spring Boot, PostgreSQL • Modular REST API  
-- **Veterinary Clinic Management System** — Spring Boot, PostgreSQL • Layered REST API  
-- **Sport Center** — React (Vite), Bootstrap 5 • Responsive fitness landing page  
-- **Dice Game** — React (Vite) • Interactive dice game web app  
+- [Library Management System](https://github.com/yyukar/restApiLibraryManagementSystem) — Spring Boot • Modular REST API
+- [Veterinary Clinic Management System](https://github.com/yyukar/Veterinary-Clinic-Management-System) — Spring Boot • Layered REST API
+- [Vehicle Rental System](https://github.com/yyukar/vehicleRentalSystem) - Java console-based application
+- [Sport Center](https://github.com/yyukar/sportCenterReact) — React (Vite), Bootstrap 5 • Responsive fitness landing page
+- [Dice Game](https://github.com/yyukar/diceGameReact) — React (Vite) • Interactive dice game web app
+- [Spend Bill Gates Money](https://github.com/yyukar/spendBillGatesMoneyTR) — React (Vite) • Game web app
+- [Notes App](https://github.com/yyukar/notesAppReact) — React (Vite) • Notes web app
+- [Star Wars](https://github.com/yyukar/starWarsApp) — React (Vite) • Star Wars landing page
+- [Question App](https://github.com/yyukar/questionAppReact) — React (Vite) • Quick question web app
+- [To Do App](https://github.com/yyukar/toDoApp) — React (Vite) • To do web app
+
 
 ---
 
