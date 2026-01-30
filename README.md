@@ -3,7 +3,7 @@
 🎓 **Math & Computer Science** background with strong **full-stack development** skills (**Java, Spring Boot, SQL, React**) and **information security governance & awareness** (security policies and procedures, phishing/social engineering awareness).  
 Currently sharpening my skills through the **Patika+ Full-Stack Web Development Bootcamp**, focusing on **Spring Boot, RESTful APIs, PostgreSQL, and React**.
 
-🧩 **Backend-first full-stack journey:** I’m actively working on **front-end data fetching** and **integrating React with backend APIs** (requests, state handling, error/loading states).
+🧩 **Full-stack journey:** I’m actively working on **front-end data fetching** and **integrating React with backend APIs** (requests, state handling, error/loading states).
 
 🛡️ **Security foundations:** supported by hands-on labs and training (Cisco **CyberOps Associate**, **CCSK**, SOC L1 labs on TryHackMe/LetsDefend) with a practical focus on **secure development awareness**.
 
