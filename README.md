@@ -35,7 +35,7 @@ Currently sharpening my skills through the **Patika+ Full-Stack Web Development 
 - [Star Wars](https://github.com/yyukar/starWarsApp) — React (Vite) • Star Wars landing page
 - [Question App](https://github.com/yyukar/questionAppReact) — React (Vite) • Quick question web app
 - [To Do App](https://github.com/yyukar/toDoApp) — React (Vite) • To do web app
-- [Library Management Web](https://github.com/yyukar/library-management-web)) — React (Vite) + TypeScript • Production-ready frontend
+- [Library Management Web](https://github.com/yyukar/library-management-web) — React (Vite) + TypeScript • Production-ready frontend
 
 ---
 
