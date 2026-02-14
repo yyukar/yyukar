@@ -1,6 +1,17 @@
 ## Hi there 👋
 
-🎓 Junior Full-Stack Web Developer with a Mathematics and Computer Science background and hands-on experience designing, developing, and maintaining end-to-end web applications. Security-aware with training and certifications in governance and SOC fundamentals. Strong communicator and team player, shaped by internship experience and continuous learning. Bringing over 10 years of experience in bodybuilding and fitness, supported by ongoing learning in sports science across multiple sports disciplines. Looking for opportunities where I can contribute and continue growing.
+🎓 Junior Full-Stack Web Developer with a Mathematics and Computer Science background and hands-on experience designing, developing, and maintaining end-to-end web applications. Security-aware with training and certifications in governance and SOC fundamentals. Strong communicator and team player, shaped by internship experience and continuous learning. Bringing over 10 years of experience in bodybuilding and fitness, supported by ongoing learning in sports science across multiple sports disciplines. Fluent in Turkish and English, and looking for opportunities to contribute and continue growing.
+
+---
+
+### 🧠 Skills
+
+- **Programming languages:** Java, JavaScript, Python  
+- **Computer software/frameworks:** Spring Boot (Spring Security, Spring Data JPA/Hibernate), SQL, PostgreSQL, Docker (Compose), React, HTML/CSS, Git, AI-assisted development (ChatGPT/MML)  
+- **Information Security Governance and Awareness:** Phishing/Social Engineering Awareness, Security Policies and Procedures Awareness, ISC2 CC, IBM and Kodluyoruz CyberStart  
+- **DevOps and Security Foundations:** NDG Linux Essentials. Cisco CyberOps Associate, CCSK Cloud Security, TryHackMe Security Analyst (SAL1), SOC L1 Labs(Turkcell, TryHackMe, LetsDefend)  
+- **Languages:** Turkish (Native), English (Fluent), German (Basic)  
+- **Driving License:** B and A
 
 ---
 
