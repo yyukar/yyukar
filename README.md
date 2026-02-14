@@ -5,7 +5,7 @@ Currently sharpening my skills through the **Patika+ Full-Stack Web Development 
 
 🧩 **Full-stack journey:** I’m actively working on **front-end data fetching** and **integrating React with backend APIs** (requests, state handling, error/loading states).
 
-🛡️ **Security foundations:** supported by hands-on labs and training (Cisco **CyberOps Associate**, **CCSK**, SOC L1 labs on TryHackMe/LetsDefend) with a practical focus on **secure development awareness**.
+🛡️ **Security foundations:** supported by hands-on labs and training (Cisco **CyberOps Associate**, **CCSK**, SOC L1 labs on TryHackMe/LetsDefend/Turkcell) with a practical focus on **secure development awareness**.
 
 🏋️‍♂️ With over **10 years in bodybuilding and fitness**, supported by ongoing learning in **sports science** and experience across multiple sports disciplines.
 
@@ -52,7 +52,6 @@ Currently sharpening my skills through the **Patika+ Full-Stack Web Development 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
