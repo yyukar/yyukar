@@ -35,7 +35,7 @@ Currently sharpening my skills through the **Patika+ Full-Stack Web Development 
 - [Star Wars](https://github.com/yyukar/starWarsApp) — React (Vite) • Star Wars landing page
 - [Question App](https://github.com/yyukar/questionAppReact) — React (Vite) • Quick question web app
 - [To Do App](https://github.com/yyukar/toDoApp) — React (Vite) • To do web app
-
+- [Library Management Web](https://github.com/yyukar/library-management-web)) — React (Vite) + TypeScript • Production-ready frontend
 
 ---
 
@@ -49,34 +49,18 @@ Currently sharpening my skills through the **Patika+ Full-Stack Web Development 
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yyukar&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyukar&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 ---
 
 ### 📫 How to reach me
 - 💼 [Digital Hub](https://yusufyukar.com)
-
-
-
-
-
-
-
-
-
-
-
