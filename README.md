@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 Junior Full-Stack Web Developer with a Mathematics and Computer Science background and hands-on experience designing, developing, and maintaining end-to-end web applications. Security-aware with training and certifications in governance and SOC fundamentals. Strong communicator and team player, shaped by internship experience and continuous learning. Bringing over 10 years of experience in bodybuilding and fitness, supported by ongoing learning in sports science across multiple sports disciplines. Fluent in Turkish and English, and looking for opportunities to contribute and continue growing.
+🎓 Junior Full-Stack Web Developer with a Mathematics and Computer Science background and hands-on experience designing, developing, and maintaining end-to-end web applications. Security-aware with training and certifications in governance and SOC fundamentals. Strong communicator and team player, shaped by internship experience and continuous learning. Bringing over 10 years of experience in bodybuilding and fitness, supported by ongoing learning in sports science across multiple sports disciplines. Fluent in Turkish and English, looking for opportunities to contribute and continue growing.
 
 ---
 
