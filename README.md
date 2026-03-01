@@ -15,16 +15,9 @@
 
 ---
 
-### 🔭 I’m currently working on
-- Building React UI components and page structure
-- **Data fetching** from REST APIs (async flows, loading/error states)
-- Frontend–backend integration (API consumption, state management, form handling)
-
 ### 🌱 I’m currently learning
-- React fundamentals in depth (components, state, props, hooks)
-- Fetching patterns (fetch/axios), async handling, and basic performance practices
-- Routing and form workflows (validation, submit flows)
-- Git/GitHub workflow and Agile practices
+
+- Improving my English to learn faster and access more high-quality resources.
 
 ---
 
